@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "test",
+    "description": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Landscape",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0,
+        "$$hashKey": "object:35",
+        "diagramJson": {
+          "cells": []
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
+      }
+    ]
+  }
+}
